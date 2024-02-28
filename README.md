@@ -1,3 +1,4 @@
+![logo](https://github.com/22f-3119/22f-3119/blob/main/background.jpg)
 <h1 align="center">Hi 👋, I'm Ifra zaib</h1>
 <h3 align="center">A passionate AI developer from Pakistan.</h3>
 
